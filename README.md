@@ -4,9 +4,7 @@ This is a gradle port of the 2020 session 2 source codes for students
 
 ## Common commands and usage
 
-cd into target directory to run tests
-
-e.g.
+cd into target directory to run tests e.g.
 
 `$ ~/COMP1010_source_codes_for_students_gradle cd practicePackage`
 
@@ -38,7 +36,9 @@ To clean build files
 
 
 note: -i provides more useful information when running tests but is not necessary
+
 note2: must be in right directory to use gradle project, e.g. to test practicePackage code must be in practicePacakge directory
+
 note3: replace test with cleanTest to run clean build files before running tests
 
 ## Examples
