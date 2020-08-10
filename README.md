@@ -34,6 +34,8 @@ To clean build files
 
 `./gradlew clean`
 
+Alternatively tests can be run through an IDE/Text editor. For example: in vscode when opening file with test functions
+it displays `Run Test | Debug Test` above the test function. Click Run Test to run the test.
 
 note: -i provides more useful information when running tests but is not necessary
 
